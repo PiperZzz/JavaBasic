@@ -1,0 +1,2 @@
+JavaCodeTest.SwitchPractice$Day
+JavaCodeTest.SwitchPractice
