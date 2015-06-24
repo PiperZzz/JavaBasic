@@ -42,4 +42,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 nbproject/private/private.properties
+<<<<<<< Updated upstream
 nbproject/private/private.xml
+=======
+/nbproject/private/
+/build/
+>>>>>>> Stashed changes
+
+nbproject/private/private.properties
